@@ -1,9 +1,12 @@
 # Instructions  
 
-1. Create a method called _stringSwap()_.  It will take a String array and two integers as parameters.  Swap the two values in the array at the indexes provided by the parameters. Return nothing.
+1. Create a method called _addString()_</br>
+It takes in a String array, a string and an index.</br>
+Create a new array with the String added to the string array at the given index.</br>
+Return the new array.</br>
 
-2. Create a method called _reverse()_.  It will take in a integer array.  Reverse the array.  Return nothing.
 
-3. Create a method called _toWordArray()_.  It will take in a String and return a String array with each word in its own index. Remove all empty Strings.
-
-
+2. Create a method called _removeChars()_</br>
+It takes in a character array and a character.</br>
+Remove all instances of the character in the array.</br>
+Return the new array.</br>
